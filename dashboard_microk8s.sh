@@ -3,7 +3,7 @@
 working_dir=`pwd`
 
 #Get namesapce variable
-tenant='lobo'
+tenant='lobo2'
 
 ## Create jmeter database automatically in Influxdb
 
